@@ -82,6 +82,6 @@ El video demostrativo muestra el funcionamiento sin errores de compilación ni
 ejecución de todos los juegos desde el mismo compilador (`compiler.py`) y 
 ejecutable (`runtime.py`):
 
-* **Enlace de la Carpeta de Entregas (Google Drive):** https://drive.google.com/drive/folders/1CQEzv2XI262W_tc7pEmJBhX0Ion5ZIUt
+* **Enlace de la Carpeta de Entregas (Google Drive):** https://drive.google.com/drive/folders/1QKeAAyjFR-nrtziISuOHw6Mp_kOQwIUj
 
 ================================================================================
